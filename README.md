@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshal Kulkarni</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">I am a 3rd year CSE student,who is trying and testing out things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal6516&label=Profile%20views&color=0e75b6&style=flat" alt="harshal6516" /> </p>
 
-- 🔭 I’m currently working on [Market Insights Analysis](https://github.com/Harshal6516/market-insights-project.git)
-
-- 🌱 I’m currently learning **PowerBI, SnowflakeDB , Tableau**
-
-- 💬 Ask me about **React,Excel,Sql**
-
-- 📫 How to reach me **hmkulkarni1205@gmail.com**
-
-- ⚡ Fun fact **I love Badminton and listening music**
-
+- How to reach me **hmkulkarni1205@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/harshal-kulkarni-1b70bb288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harshal-kulkarni-1b70bb288" height="30" width="40" /></a>
